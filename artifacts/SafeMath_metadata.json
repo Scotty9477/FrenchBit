@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"FrenchBit.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/npm/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
+			"keccak256": "0xbc6b4a4d30751f30bbf036a6258f908b91b65e56b7fc8f10a92b72a80e02e868",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://abc633537f83f5ef4e48d8649a56be5c6a2e3062266a95e9642ac903911a5a39",
+				"dweb:/ipfs/QmTW6fYmsJqVKnXVWa6YKx1Deymegfs4krcJEe254k4GvM"
+			]
+		},
+		".deps/npm/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+			"keccak256": "0x6341dd72c193bf32f53b11c09b241660ea0362b1f606ca3ce40b30e76206447b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5b41e064e50f6ff93baeebc313a758183b7cc2360152a697fa42ba42b9ef1918",
+				"dweb:/ipfs/QmNdpRA9ZY6wW1F7NjJmGeguJdyuoviXt8TK7xCSzUzaN1"
+			]
+		},
+		".deps/npm/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
+			"keccak256": "0x83fe24f5c04a56091e50f4a345ff504c8bff658a76d4c43b16878c8f940c53b2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d4c3df1a7ca104b633a7d81c6c6f5192367d150cd5a32cba81f7f27012729013",
+				"dweb:/ipfs/QmSim72e3ZVsfgZt8UceCvbiSuMRHR6WDsiamqNzZahGSY"
+			]
+		},
+		".deps/npm/@openzeppelin/contracts/utils/Context.sol": {
+			"keccak256": "0xf930d2df426bfcfc1f7415be724f04081c96f4fb9ec8d0e3a521c07692dface0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fc2bfdea0d2562c76fb3c4cf70a86c6ba25c5a30e8f8515c95aafdf8383f8395",
+				"dweb:/ipfs/QmTbFya18786ckJfLYUoWau9jBTKfmWnWm5XSViWvB7PXN"
+			]
+		},
+		"FrenchBit.sol": {
+			"keccak256": "0x4d5a17ac6c0ab86f2a4f88fad3ac63c3b30eb7743820ebd6738044e769ac50fa",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://8529c3839ff02076b986297d364fe7206213fa5a68f3f692be5944597c3610e1",
+				"dweb:/ipfs/QmeZnqPS9PFBLcwkT8dCNkuxmNZqHZnmMU4VyWaz3ofazt"
+			]
+		}
+	},
+	"version": 1
+}
